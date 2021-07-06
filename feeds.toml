@@ -1,6 +1,0 @@
-[CombinatieRidderkerk]
-title = "Combinatie Ridderkerk"
-url = "https://www.decombinatieridderkerk.nl/"
-entrySelector = ".topcenter > a div"
-titleSelector = "h1"
-linkSelector = "a"
