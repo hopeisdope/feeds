@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.decombinatieridderkerk.nl/</id>
     <title>Combinatie Ridderkerk</title>
-    <updated>2021-07-13T13:44:01.434Z</updated>
+    <updated>2021-07-13T14:16:06.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.decombinatieridderkerk.nl/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Meldpunt Samen beëindigd]]></title>
+        <title type="html"><![CDATA[Besmettingen stijgen weer]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.378Z</updated>
+        <updated>2021-07-13T14:16:06.379Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
                     <h1 class="MainNieuwsheader" style="margin:0px; position:absolute !important;">
                         <span class="newspad">
-                            Meldpunt Samen beëindigd 
+                            Besmettingen stijgen weer 
 
 
 
@@ -22,10 +22,44 @@
                     </span></h1>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meldpunt Samen beëindigd]]></title>
+        <id>https://www.decombinatieridderkerk.nl/</id>
+        <link href="https://www.decombinatieridderkerk.nl/"/>
+        <updated>2021-07-13T14:16:06.380Z</updated>
+        <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
+
+
+
+                        <div class="smallphotometa">
+                            07:55                         </div>
+
+
+
+
+
+                        <h1 class="MainNieuwsheader" style="margin:0px;">
+                            <span class="newspad">
+
+                                Meldpunt Samen beëindigd
+
+
+
+
+                            </span>
+                        </h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.decombinatieridderkerk.nl/</id>
+        <link href="https://www.decombinatieridderkerk.nl/"/>
+        <updated>2021-07-13T14:16:06.368Z</updated>
+        <content type="html"><![CDATA[07:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Toekomstplannen van het waterschap ter inzage]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.378Z</updated>
+        <updated>2021-07-13T14:16:06.381Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -49,17 +83,17 @@
                         </h1>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.357Z</updated>
+        <updated>2021-07-13T14:16:06.369Z</updated>
         <content type="html"><![CDATA[12/7  17:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nieuw ontwerp voor graffiti-wall in Bolnes]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.381Z</updated>
+        <updated>2021-07-13T14:16:06.382Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -83,44 +117,10 @@
                         </h1>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://www.decombinatieridderkerk.nl/</id>
-        <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.358Z</updated>
-        <content type="html"><![CDATA[12/7  11:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ridderkerkse muzikanten geslaagd met concert in Energiehuis]]></title>
-        <id>https://www.decombinatieridderkerk.nl/</id>
-        <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.384Z</updated>
-        <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
-
-
-
-                        <div class="smallphotometa">
-                            12/7  8:23                         </div>
-
-
-
-
-
-                        <h1 class="MainNieuwsheader" style="margin:0px;">
-                            <span class="newspad">
-
-                                Ridderkerkse muzikanten geslaagd met concert in Energiehuis
-
-
-
-
-                            </span>
-                        </h1>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T13:44:01.360Z</updated>
-        <content type="html"><![CDATA[12/7  8:23]]></content>
+        <updated>2021-07-13T14:16:06.371Z</updated>
+        <content type="html"><![CDATA[12/7  11:24]]></content>
     </entry>
 </feed>
