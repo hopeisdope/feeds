@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hopeisdope.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-13T05:37:21.786Z</updated>
+    <updated>2021-07-13T06:23:06.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Toekomstplannen van het waterschap ter inzage (Combinatie Ridderkerk)]]></title>
+        <title type="html"><![CDATA[Meldpunt Samen beëindigd (Combinatie Ridderkerk)]]></title>
         <id>https://hopeisdope.github.io/feeds/all.xml</id>
         <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.741Z</updated>
+        <updated>2021-07-13T06:23:06.620Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
                     <h1 class="MainNieuwsheader" style="margin:0px; position:absolute !important;">
                         <span class="newspad">
-                            Toekomstplannen van het waterschap ter inzage 
+                            Meldpunt Samen beëindigd 
 
 
 
@@ -21,10 +21,44 @@
                     </span></h1>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toekomstplannen van het waterschap ter inzage (Combinatie Ridderkerk)]]></title>
+        <id>https://hopeisdope.github.io/feeds/all.xml</id>
+        <link href="https://hopeisdope.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T06:23:06.623Z</updated>
+        <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
+
+
+
+                        <div class="smallphotometa">
+                            17:25                         </div>
+
+
+
+
+
+                        <h1 class="MainNieuwsheader" style="margin:0px;">
+                            <span class="newspad">
+
+                                Toekomstplannen van het waterschap ter inzage
+
+
+
+
+                            </span>
+                        </h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Combinatie Ridderkerk)]]></title>
+        <id>https://hopeisdope.github.io/feeds/all.xml</id>
+        <link href="https://hopeisdope.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T06:23:06.602Z</updated>
+        <content type="html"><![CDATA[17:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nieuw ontwerp voor graffiti-wall in Bolnes (Combinatie Ridderkerk)]]></title>
         <id>https://hopeisdope.github.io/feeds/all.xml</id>
         <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.742Z</updated>
+        <updated>2021-07-13T06:23:06.625Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -51,14 +85,14 @@
         <title type="html"><![CDATA[undefined (Combinatie Ridderkerk)]]></title>
         <id>https://hopeisdope.github.io/feeds/all.xml</id>
         <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.729Z</updated>
+        <updated>2021-07-13T06:23:06.604Z</updated>
         <content type="html"><![CDATA[12/7  11:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ridderkerkse muzikanten geslaagd met concert in Energiehuis (Combinatie Ridderkerk)]]></title>
         <id>https://hopeisdope.github.io/feeds/all.xml</id>
         <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.743Z</updated>
+        <updated>2021-07-13T06:23:06.627Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -85,41 +119,7 @@
         <title type="html"><![CDATA[undefined (Combinatie Ridderkerk)]]></title>
         <id>https://hopeisdope.github.io/feeds/all.xml</id>
         <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.731Z</updated>
+        <updated>2021-07-13T06:23:06.605Z</updated>
         <content type="html"><![CDATA[12/7  8:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genieten in Zuidpolder (Combinatie Ridderkerk)]]></title>
-        <id>https://hopeisdope.github.io/feeds/all.xml</id>
-        <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.744Z</updated>
-        <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
-
-
-
-                        <div class="smallphotometa">
-                            10/7  13:18                         </div>
-
-
-
-
-
-                        <h1 class="MainNieuwsheader" style="margin:0px;">
-                            <span class="newspad">
-
-                                Genieten in Zuidpolder
-
-
-
-
-                            </span>
-                        </h1>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Combinatie Ridderkerk)]]></title>
-        <id>https://hopeisdope.github.io/feeds/all.xml</id>
-        <link href="https://hopeisdope.github.io/feeds/all.xml"/>
-        <updated>2021-07-13T05:37:21.732Z</updated>
-        <content type="html"><![CDATA[10/7  13:18]]></content>
     </entry>
 </feed>
