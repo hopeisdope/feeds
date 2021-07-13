@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.decombinatieridderkerk.nl/</id>
     <title>Combinatie Ridderkerk</title>
-    <updated>2021-07-13T14:16:06.423Z</updated>
+    <updated>2021-07-13T14:38:05.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.decombinatieridderkerk.nl/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Besmettingen stijgen weer]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.379Z</updated>
+        <updated>2021-07-13T14:38:05.624Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
                     <h1 class="MainNieuwsheader" style="margin:0px; position:absolute !important;">
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[Meldpunt Samen beëindigd]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.380Z</updated>
+        <updated>2021-07-13T14:38:05.626Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -52,14 +52,14 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.368Z</updated>
+        <updated>2021-07-13T14:38:05.605Z</updated>
         <content type="html"><![CDATA[07:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Toekomstplannen van het waterschap ter inzage]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.381Z</updated>
+        <updated>2021-07-13T14:38:05.627Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -86,14 +86,14 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.369Z</updated>
+        <updated>2021-07-13T14:38:05.606Z</updated>
         <content type="html"><![CDATA[12/7  17:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nieuw ontwerp voor graffiti-wall in Bolnes]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.382Z</updated>
+        <updated>2021-07-13T14:38:05.628Z</updated>
         <content type="html"><![CDATA[<img src="/Content/parts/bigpicture.png" alt="placeholder">
 
 
@@ -120,7 +120,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.decombinatieridderkerk.nl/</id>
         <link href="https://www.decombinatieridderkerk.nl/"/>
-        <updated>2021-07-13T14:16:06.371Z</updated>
+        <updated>2021-07-13T14:38:05.608Z</updated>
         <content type="html"><![CDATA[12/7  11:24]]></content>
     </entry>
 </feed>
